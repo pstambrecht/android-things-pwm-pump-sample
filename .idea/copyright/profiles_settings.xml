@@ -1,0 +1,11 @@
+<component name="CopyrightManager">
+  <settings default="Pavel Stambrecht Copyright">
+    <module2copyright>
+      <element module="Project Files" copyright="Pavel Stambrecht Copyright" />
+    </module2copyright>
+    <LanguageOptions name="JAVA">
+      <option name="fileTypeOverride" value="3" />
+      <option name="fileLocation" value="3" />
+    </LanguageOptions>
+  </settings>
+</component>

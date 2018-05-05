@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="Created by pavel on" />
+    <option name="myName" value="Etnetera Copyright" />
+    <option name="notice" value="/* Copyright (C) &amp;#36;today.year Etnetera a.s. - All Rights Reserved&#10;* Unauthorized copying of this file, via any medium is strictly prohibited&#10;* Proprietary and confidential&#10;* Written by Pavel Stambrecht&#10;*/" />
+  </copyright>
+</component>
